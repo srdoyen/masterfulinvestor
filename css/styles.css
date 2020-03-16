@@ -12,6 +12,7 @@ h3 {
 }
 
 
+
 h2 {
   color: #3046c5;
 }
@@ -79,4 +80,14 @@ header h2 {
     line-height: 15px;
     font-size: 20px;
   }
+}
+
+
+h5 {
+  color: black;
+  font-weight: bold;
+}
+
+p.card-text {
+  color: #3b0606;
 }
