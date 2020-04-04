@@ -82,9 +82,12 @@ header h2 {
   }
 }
 
-h5.card-title {
+h5.card-title,
+h5.mb-1 {
   color: black;
 }
+
+
 
 h5 {
   color: white;
