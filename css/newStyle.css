@@ -82,9 +82,12 @@ header h2 {
   }
 }
 
+h5.card-title {
+  color: black;
+}
 
 h5 {
-  color: black;
+  color: white;
   font-weight: bold;
 }
 
@@ -165,4 +168,36 @@ header .overlay {
   header video {
     display: none;
   }
+}
+
+.bg-black {
+  background-color: black;
+}
+
+h4 {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Arial';
+}
+
+p.lead {
+  color: #1b1b1b;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: "Calibri";
+}
+
+.bottom {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.img-spacing {
+  margin-bottom: 20px;
+
+}
+
+.site-footer {
+  background-color: black;
 }
